@@ -1,0 +1,31 @@
+{
+  "name": "projecttracker",
+  "version": "0.0.1",
+  "description": "Realtime chat system for Tutorialzine.com",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "chat",
+    "system"
+  ],
+  "author": "Md Ansari",
+  "license": "MIT",
+  "dependencies": {
+    "ejs": "^1.0.0",
+    "express": "^4.8.2",
+    "gravatar": "~1.0.6",
+    "socket.io": "1.0.6"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mdansari123/privateChat.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mdansari123/privateChat/issues"
+  },
+  "homepage": "https://github.com/mdansari123/privateChat#readme"
+}
